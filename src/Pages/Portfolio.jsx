@@ -73,7 +73,7 @@ const CONFIG = {
     work: "I specialize in the MERN stack and have built multiple real-world projects including PawMart (pet marketplace), BloodLink (blood donation platform), and Voltgear (eCommerce with Next.js). I focus on clean code, secure authentication (JWT, Firebase), and responsive user interfaces.",
     hobbies:
       "When I'm not coding, I love exploring new technologies, learning about tech products, and gazing at the universe—it reminds me how big the world of possibilities really is.",
-    goal: "To grow into a skilled software engineer who builds impactful digital products and contributes to a collaborative team environment.",
+    goal: "To grow as a skilled software engineer, build impactful digital products, and use technology to make a positive impact on society.",
   },
   skills: {
     Frontend: [
